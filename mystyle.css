@@ -11,6 +11,6 @@ th, td {
   border-radius: 10px;
   border-color: #96D4D4;
   padding: 15px;
-  margin: 30px;
+  margin: 30px 30px;
 }
 th.important { color:red; }
