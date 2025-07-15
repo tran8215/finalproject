@@ -7,6 +7,8 @@ h1 {
   color: #f0a050;
 }
 th, td {
-  border: dashed thick black;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #96D4D4;
 }
 th.important { color:red; }
