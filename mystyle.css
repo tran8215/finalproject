@@ -1,0 +1,12 @@
+/*mystyle.css*/
+h1 {
+  color: blue;
+}
+/* h1 { color: green; }*/
+h1 {
+  color: #f0a050;
+}
+th, td {
+  border: dashed thick black;
+}
+th.important { color:red; }
